@@ -1,0 +1,3 @@
+[submodule "task3/catr"]
+	path = task3/catr
+	url = https://github.com/5AF1/catr
